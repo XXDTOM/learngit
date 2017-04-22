@@ -1,6 +1,4 @@
-白日依山尽
-黄河入海流
-欲穷千里目
-更上一层楼
-
-化合
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes.
